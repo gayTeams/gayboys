@@ -7,5 +7,6 @@ public class gay {
 		System.out.println("欢迎来到qm的亚洲max gayTeams");
 		System.out.println("桑井空最大视频网站");
 		System.out.println("IsMoyu");
+		System.out.println("IsMoyu-IDEA");
 	}
 }
